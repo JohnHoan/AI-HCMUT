@@ -1,0 +1,5 @@
+Thành viên và phân chia công việc
+1. Nguyễn Văn Hoàn - 1711376 - Bài toán n puzzle - dfs
+2. Vũ Hoàng Hùng - 1812477     - Path finding - A*
+3. Nguyễn Duy Sơn - 1811197    - Sudoku - genetic algorithm 
+4. Phạm Lưu Vỹ Hoàng - 1812287 - Sudoku - genetic algorithm
